@@ -154,6 +154,7 @@
 // console.log(countSubString("lolol", "lo")); // Output: 2
 // console.log(countSubString("aaaaa", "aa")); // Output: 4
 // console.log(countSubString("abaaa", "ab")); // Output: 
+// console.log(countSubString("ababaa", "ab")); // Output: 
 
 
 
